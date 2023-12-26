@@ -5,9 +5,3 @@ I love building projects on the web ,interested in all things web, blockchain
 
 - 🔭 I’m currently working on portfolio 
 
-
-
-
-
-
-[![Aqrab's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqrab-25)](https://github.com/anuraghazra/github-readme-stats)
